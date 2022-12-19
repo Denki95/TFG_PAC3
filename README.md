@@ -1,4 +1,6 @@
 # TFG_PAC3
-Falten els arxius Assets i Library perque contenen arxius binaris superiors als 2Gb i m'estan donant problemes per pujar-los a github.
-Porto hores intentant pujar els arxius però no hi ha manera.
-Intentaré eliminar l'arxiu que no hem permet pujar.
+Al final s'aconsegueix pujar tots els arxius fent-lo en 5 pujades diferents.
+
+Va haver un moment on es va haver de esborrar el history del github perque donaba error amb qualsevol arxiu, per petit que fos.
+
+L'executable es troba amb tots els arxius necessaris al .rar
